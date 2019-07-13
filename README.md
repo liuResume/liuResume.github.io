@@ -1,2 +1,0 @@
-# liuResume.github.io
-cv
